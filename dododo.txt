@@ -5,4 +5,4 @@ pa
 sol
 la
 Si!
-git
+다시 수정 하였습니다.
